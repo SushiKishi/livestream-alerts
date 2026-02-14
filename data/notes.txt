@@ -1,0 +1,47 @@
+//TODO: Need to adjust all the functions to set top/bottom text before customizing text.
+//		You did it the way it is now so you don't "set the text twice" but who cares, its harder to parse this way.
+
+
+TODO: Raid customized text:
+	
+	
+	Hailing from wherever, Raiding Whomever...<br />X and +Y Freshly Squeezed viewers! <Mind A>
+	X bids their stream adieu and triggers a Y-person raid! <BattleCry>
+	X recruited Y raiders into the NWO!
+	X and their Wolfpac of Y raiders are here!
+	High-five! X is here with Y of their friends! <DDP>
+	It's a new raid, yes it is! X with Y friends! <New Day 16>
+	The greatest raid of this or any other stream...<br />X's RAAAAAAAAAAAIIIIIIIIIIID of Y viewers! 
+	X and Y of their Biggest Dogs are here! <Reigns 16>
+	The Yions (and Yions) of the X's fans raid di-recked-ly into chat! TODO: Rock16 audio cuts
+	X and Y of their Best Frenemies are here! <KO 16bit>
+	Is that X and Y of their friends? You know it! <Zack16>
+	
+
+Waiting on Perms:
+	Sammy Zayn - https://soundcloud.com/joebleeps/worlds-apart-wwe-sami-zayn-chiptune-cover or bust at this point T_T
+	Volt44 Mind (BC purchase done)
+
+
+
+Credits:
+
+Verbose credits with direct song links, etc. are available here:
+
+The quick list is:
+
+
+8-Bit Arcade: https://www.youtube.com/c/8BitArcadeOfficial - Mercedes Mone
+16-Bit Themes: https://16bitthemes.bandcamp.com/ - Danielson Valkyries, Dolph, Zack Ryder, KO
+AngryEd99: https://www.youtube.com/@AngryEd99, https://www.twitch.tv/angry_ed - OC Jane, Cactus Jack
+Johnny Bagodonuts: Twitch: https://www.twitch.tv/johnny_bagodonuts, SoundCloud: https://soundcloud.com/jlongolucco - Bayley, r, 
+Bulloney - https://bulloney.tripod.com/midi.htm - Goldberg, Kurt, SCSA, Eddie, Raw MIDIs
+CraniumChris - https://flow.page/Craniumchris - Carry On My Wayward Son
+LinksOff - https://www.youtube.com/@LinksOff - Shinsuke
+Petriform - https://petriform.bandcamp.com/ - Hendry, Kenny Omega
+Raxlen Slice: https://www.youtube.com/c/RaxlenSlice - OC Mind, Jungle Boy
+Slackcircus - What's Up?
+That 8-Bit Dude: https://www.youtube.com/@That8BitDude - Asuka, KO
+TomboFry: https://tombofry.bandcamp.com/, https://floof.fm/- Danielson Countdown
+VGMusic - vgmusic.com - Wolfpac MIDI
+Unknown Artist - https://onlinesequencer.net/4024981 - NWO MIDI
