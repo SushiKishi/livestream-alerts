@@ -8,7 +8,7 @@ Powered by Streamer.bot and some sort of web server backend (e.g. XAMPP).
 3) Generate default alert text and determine what type and tier of alert we are working with - e.g. Tips over $5 = tier 1, Tips over $15 = Tier 3, Merch Sales converted to cash/tip alerts, whatever the case may be.
 4) Pick from the available alert audio choices for that type and tier of alert
 5) Load that wrestler's alert background, and customized text options (if set).
-6) Store the alert text in `/live/<insert text options here>.txt`, store the audio- and logging-based data in `/live/alert.json`
+6) Store the alert text in `/live/<insert text options here>.txt`, store the audio- and logging-based data in `/data/alert.json`
 
 
 ### TODO:
