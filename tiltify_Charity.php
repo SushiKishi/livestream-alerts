@@ -5,7 +5,7 @@
 //TODO: change this so its more similar to the other alerts in terms of flow, verbiage, etc.
 
 
-function processData($alertData) {
+function processData($data) {
 
 	$ugly = array();
 	$pretty = array();
@@ -14,8 +14,8 @@ function processData($alertData) {
 	$anyMerch = false;
 	
 	
-    extract($alertData);
-	unset($alertData);
+    extract($data);
+	
 	
 	//initialize / set easy stuff
 	$data["chatMsg"] = "Thank you to $donorName for $" . round($donorAmount, 2) . " for $charity! Use !charity and !donate to keep the momentum going!";
@@ -152,5 +152,3 @@ function processData($alertData) {
 
 
 ?>
-
-

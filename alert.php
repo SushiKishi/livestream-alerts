@@ -35,7 +35,7 @@ function itEffinDied($data, $alert, $e) {
     $dummy["lineCount"] = 1;
     $dummy["wrestler"] = "__ERROR__";
     $dummy["topText"] = "Error in alerts! " . ( $data["user"] ?? "NULL" ) . " - ";
-    $dummy["topText"] = $dummy["topText"] . ( !$data["eventSource"] ??  "NULL /" ) . " - ";
+    $dummy["topText"] = $dummy["topText"] . ( $data["eventSource"] ??  "NULL /" ) . " - ";
     $dummy["topText"] = $dummy["topText"] . ( $data["triggerName"] ?? "NULL" ); 
     file_put_contents("data/alert.json", json_encode($dummy));
 
@@ -72,20 +72,17 @@ foreach ($_GET as $k => $v) {
 unset($_GET);
 
 $rawData["timestamp"] = date("m.d.y - g:i a");
-$filename = $rawData["eventSource"] . "_" . $rawData["triggerName"] . ".php";
 
 
 //process basic alert data, return: name, amount, tier, source, type, text
 try {
     
+    $filename = $rawData["eventSource"] . "_" . $rawData["triggerName"] . ".php";
     include($filename); 
     processData($rawData); 
-    
     
 }
 
 catch (Throwable $e) { itEffinDied( ($rawData ?? null), ($alert ?? null), $e); }
 
 ?>
-
-

@@ -1,6 +1,5 @@
 <?php
 
-//TODO: gifts
 
 
 function processData($data) {
